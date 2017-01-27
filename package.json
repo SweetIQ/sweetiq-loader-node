@@ -1,0 +1,23 @@
+{
+  "name": "location-loader",
+  "version": "0.0.1",
+  "description": "library template to connect to SweetIQ's Location API to update the data automatically",
+  "main": "load-location.js",
+  "dependencies": {
+    "mysql": "^2.12.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "sequelize": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "exfactual.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "preferGlobal": "true",
+  "keywords": [],
+  "author": "Martin Hamel",
+  "license": "sweetiQ",
+  "readmeFilename": "readme.md"
+}

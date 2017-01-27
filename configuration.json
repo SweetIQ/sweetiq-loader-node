@@ -1,0 +1,14 @@
+{
+  "sweetiqAPI": {
+    "email": "email",
+    "password"  : "password",
+    "serverURL": "https://locs-stag.swiq3.com/"
+  },
+  "database": {
+    "databaseName": "yourDatabaseName",
+    "databaseHost": "yourDatabaseServerName",
+    "userName": "userName",
+    "password": "password"
+  },
+  "intervalOfPushInMinutes": 60
+}
